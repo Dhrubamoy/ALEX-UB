@@ -49,3 +49,10 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot ow
 
 </details>
 
+<details>
+
+  <summary> • CONTACT ME • </summary>
+<h2 align="center"> <a href="https://t.me/@daredevil_king">☢️ME☢️</a></h2>
+
+</details>
+
