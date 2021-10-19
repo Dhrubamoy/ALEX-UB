@@ -6,7 +6,7 @@
 
 
 
-# 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
+# ALEX-UB-USERBOT#ULTRA HIGH
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
