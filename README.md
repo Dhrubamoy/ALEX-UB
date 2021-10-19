@@ -59,7 +59,7 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot ow
 <details>
 
   <summary> • CONTACT BOT OWNER • </summary>
-<h2 align="center"> <a href="https://t.me/@ALEXUSERBOT_YOURDAD">☢️ME☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/@ALEXUSERBOT_YOURDAD">☢️ALONE ADARSH☢️</a></h2>
 
 </details>
 
