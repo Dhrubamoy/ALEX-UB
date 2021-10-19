@@ -11,7 +11,7 @@ THE HELPERS ARE AND WHOM I WANAN GIVE CREDIT ARE
 @ALEXUSERBOT_YOURDAD
 
 
-ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot owner @Kraken_The_Badass  and mafia bot owner H1M4N5HU0P. Join for update related info channel and group :-  THANKS FOR VISITING OUR REPO💖
+ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot owner @Kraken_The_Badass  and mafia bot owner @H1M4N5HU0P. Join for update related info channel and group :-  THANKS FOR VISITING OUR REPO💖
 
 ![photo_2021-10-03_07-40-19](https://user-images.githubusercontent.com/87700009/137922553-4a55a437-7a01-4667-86e7-fdbaf099c7d1.jpg)
 
@@ -65,3 +65,17 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot ow
 
 
 # THE MAIN AND RESPECTIVE OWNER FROM WHERE SOME OF THE SOME BOT FILES TAKEN ARE
+
+<details>
+
+  <summary> • CONTACT ME • </summary>
+<h2 align="center"> <a href="https://t.me/@H1M4N5HU0P">☢️MAFIABOT☢️</a></h2>
+
+</details>
+
+<details>
+
+  <summary> • CONTACT ME • </summary>
+<h2 align="center"> <a href="https://t.me/@Kraken_The_Badass">☢️HELLBOT OWNER☢️</a></h2>
+
+</details>
