@@ -64,3 +64,4 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot ow
 </details>
 
 
+# THE MAIN AND RESPECTIVE OWNER FROM WHERE THE SOME BOT FILES TAKEN ARE
