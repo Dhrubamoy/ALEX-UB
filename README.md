@@ -18,7 +18,7 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot ow
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/Alex_userbot_support">☢️JOIN ALEX-UB SUPPORT☢️</a></h2>
 
 </details>
 
