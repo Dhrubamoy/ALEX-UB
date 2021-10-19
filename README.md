@@ -8,7 +8,7 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 THIS USERBOT IS DESIGNED BY @daredevil_king WITH THE HELP OF @Legendl_Mr_Hacker --MY FRIEND
 THE HELPERS ARE AND WHOM I WANAN GIVE CREDIT ARE 
-@Legendl_Mr_Hacker 
+@ALEXUSERBOT_YOURDAD
 
 
 ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot owner @Kraken_The_Badass  and mafia bot owner H1M4N5HU0P. Join for update related info channel and group :-  THANKS FOR VISITING OUR REPO💖
@@ -39,6 +39,13 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot ow
   
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dhrubamoy/ALEX-UB)
 
+
+</details>
+
+<details>
+
+  <summary> • MY HELPER • </summary>
+<h2 align="center"> <a href="https://t.me/@Legendl_Mr_Hacker">☢️CONTACT LEGEND-LX☢️</a></h2>
 
 </details>
 
