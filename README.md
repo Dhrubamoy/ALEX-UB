@@ -68,14 +68,14 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot ow
 
 <details>
 
-  <summary> • CONTACT ME • </summary>
+  <summary> • MAFIABOT OWNER • </summary>
 <h2 align="center"> <a href="https://t.me/@H1M4N5HU0P">☢️MAFIABOT☢️</a></h2>
 
 </details>
 
 <details>
 
-  <summary> • CONTACT ME • </summary>
+  <summary> • HELLBOT OWNER • </summary>
 <h2 align="center"> <a href="https://t.me/@Kraken_The_Badass">☢️HELLBOT OWNER☢️</a></h2>
 
 </details>
