@@ -50,7 +50,7 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective Pythonbotb
   <summary> • MY HELPER • </summary>
 <h2 align="center"> <a href="https://t.me/about_k_4_king/6">☢️CONTACT LEGEND-LX☢️</a></h2>
 
-</details>
+</details> t.me/Legendl_Mr_Hacker
 
 
 
