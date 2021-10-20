@@ -77,7 +77,7 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot ow
 <details>
 
   <summary> • MAFIABOT OWNER • </summary>
-<h2 align="center"> <a href="https://t.me/@H1M4N5HU0P">☢️MAFIABOT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/about_k_4_king/8">☢️MAFIABOT☢️</a></h2>
 
 </details>
 
@@ -86,7 +86,7 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot ow
 <details>
 
   <summary> • HELLBOT OWNER • </summary>
-<h2 align="center"> <a href="https://t.me/@Kraken_The_Badass">☢️HELLBOT OWNER☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/about_k_4_king/9">☢️HELLBOT OWNER☢️</a></h2>
 
 </details>
 
