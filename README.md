@@ -87,7 +87,7 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective Pythonbotb
 <details>
 
   <summary> • Pythonbot OWNER • </summary>
-<h2 align="center"> <a href="https://t.me/about_k_4_king/9">☢️Pythonbot OWNER☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/Legendl_Mr_Hacker/9">☢️Pythonbot OWNER☢️</a></h2>
 
 </details>
 
