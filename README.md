@@ -10,8 +10,9 @@ THIS USERBOT IS DESIGNED BY @daredevil_king WITH THE HELP OF @Legendl_Mr_Hacker 
 THE HELPERS ARE AND WHOM I WANAN GIVE CREDIT ARE 
 @ALEXUSERBOT_YOURDAD
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dhrubamoy/ALEX-UB)
 
-ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot owner @Kraken_The_Badass  and mafia bot owner @H1M4N5HU0P. Join for update related info channel and group :-  THANKS FOR VISITING OUR REPO💖
+ALEX-UB    (userbot) made by @daredevil_king. Supported by respective Pythonbotbot owner t.me/Legendl_Mr_Hacker  and Alex-ub-userbot bot owner { I N }. Join for update related info channel and group :-  THANKS FOR VISITING OUR REPO💖
 
 ![photo_2021-10-03_07-40-19](https://user-images.githubusercontent.com/87700009/137922553-4a55a437-7a01-4667-86e7-fdbaf099c7d1.jpg)
 
@@ -76,7 +77,7 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot ow
 
 <details>
 
-  <summary> • MAFIABOT OWNER • </summary>
+  <summary> • Alex-ub-usebot OWNER • </summary>
 <h2 align="center"> <a href="https://t.me/about_k_4_king/8">☢️MAFIABOT☢️</a></h2>
 
 </details>
@@ -85,8 +86,8 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot ow
 
 <details>
 
-  <summary> • HELLBOT OWNER • </summary>
-<h2 align="center"> <a href="https://t.me/about_k_4_king/9">☢️HELLBOT OWNER☢️</a></h2>
+  <summary> • Pythonbot OWNER • </summary>
+<h2 align="center"> <a href="https://t.me/about_k_4_king/9">☢️Pythonbot OWNER☢️</a></h2>
 
 </details>
 
