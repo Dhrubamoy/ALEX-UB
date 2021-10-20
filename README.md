@@ -47,7 +47,7 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective hellbot ow
 <details>
 
   <summary> • MY HELPER • </summary>
-<h2 align="center"> <a href="https://t.me/@Legendl_Mr_Hacker">☢️CONTACT LEGEND-LX☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/about_k_4_king/6">☢️CONTACT LEGEND-LX☢️</a></h2>
 
 </details>
 
