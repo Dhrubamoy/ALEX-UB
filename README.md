@@ -97,6 +97,6 @@ ALEX-UB    (userbot) made by @daredevil_king. Supported by respective Pythonbotb
 <details>
 
   <summary> • Pythonbot Repo • </summary>
-<h2 align="center"> <a href="https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8">☢️PythonBot OWNER☢️</a></h2>
+<h2 align="center"> <a href="https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8">☢️PythonBot Repo☢️</a></h2>
 
 </details>
